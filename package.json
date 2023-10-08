@@ -1,6 +1,6 @@
 {
-  "name": "ifanrx-react-ueditor",
-  "version": "2.3.2",
+  "name": "seriousface-react-ueditor",
+  "version": "2.3.3",
   "description": "an ueditor component for react",
   "main": "lib",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ifanrx/react-ueditor.git"
+    "url": "git+https://github.com/seriousFace-Ian/react-ueditor.git"
   },
   "keywords": [
     "ueditor",
@@ -19,9 +19,9 @@
   "author": "KaiLunYao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ifanrx/react-ueditor/issues"
+    "url": "https://github.com/seriousFace-Ian/react-ueditor/issues"
   },
-  "homepage": "https://github.com/ifanrx/react-ueditor#readme",
+  "homepage": "https://github.com/seriousFace-Ian/react-ueditor#readme",
   "files": [
     "lib",
     "LICENSE",
